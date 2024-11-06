@@ -1,1 +1,1 @@
-# Explore-The-Maze
+Explore-The-Maze là một game 2d lấy cảm hứng về thể loại phiêu lưu và thám hiểm và các dòng game tương tự, người chơi trở thành một nhà thám hiểm đi lạc vào một mê cung với mục tiêu là khám phá và sống sót thoát khỏi mê cung đó.
